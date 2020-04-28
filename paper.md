@@ -31,16 +31,16 @@ authors:
     orcid: 0000-0002-8480-5230
     affiliation: "1, 4"
 affiliations:
-  - name: NeuroPoly Lab, Institute of Biomedical Engineering, Polytechnique Montreal, Montreal, Canada
-    index: 1
-  - name: McConnell Brain Imaging Center, Montreal Neurological Institute, McGill University, Montreal, Canada
-    index: 2
-  - name: Functional Neuroimaging Unit, CRIUGM, University of Montreal, Montreal, Canada
-    index: 3
-  - name: Montreal Heart Institute, University of Montréal, Montréal, Canada
-    index: 4
-  - name: Departments of Radiology and Clinical Neuroscience,  Hotchkiss Brain Institute, University of Calgary, Calgary, Canada
-  Index: 5
+ - name: NeuroPoly Lab, Institute of Biomedical Engineering, Polytechnique Montreal, Montreal, Canada
+   index: 1
+ - name: McConnell Brain Imaging Center, Montreal Neurological Institute, McGill University, Montreal, Canada
+   index: 2
+ - name: Functional Neuroimaging Unit, CRIUGM, University of Montreal, Montreal, Canada
+   index: 3
+ - name: Montreal Heart Institute, University of Montréal, Montréal, Canada
+  index: 4
+ - name: Departments of Radiology and Clinical Neuroscience,  Hotchkiss Brain Institute, University of Calgary, Calgary, Canada
+   index: 5
 date: 02 March 2020
 bibliography: paper.bib
 ---
