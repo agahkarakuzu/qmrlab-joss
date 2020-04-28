@@ -38,7 +38,7 @@ affiliations:
  - name: Functional Neuroimaging Unit, CRIUGM, University of Montreal, Montreal, Canada
    index: 3
  - name: Montreal Heart Institute, University of Montréal, Montréal, Canada
-  index: 4
+   index: 4
  - name: Departments of Radiology and Clinical Neuroscience,  Hotchkiss Brain Institute, University of Calgary, Calgary, Canada
    index: 5
 date: 02 March 2020
