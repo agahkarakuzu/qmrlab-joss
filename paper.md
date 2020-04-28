@@ -6,45 +6,43 @@ tags:
   - quantitative magnetic resonance imaging
   - mri
   - neuroimaging
- - name: Agah Karakuzu
-   orcid: 0000-0001-7283-271X
-   affiliation: "1, 4"
- - name: Mathieu Boudreau
-   orcid: 0000-0002-7726-4456
-   affiliation: "1, 4"
- - name: Tanguy Duval
-   orcid: 0000-0002-1228-5192
-   affiliation: 1
- - name: Tommy Boshkovski
-   orcid: 0000-0002-5243-5204
-   affiliation: 1
- - name: Ilana R. Leppert
-   affiliation: 2
- - name: G. Bruce Pike 
-   orcid: 0000-0001-8924-683X
-   affiliation: "2, 5"
- - name: Julien Cohen-Adad
-   orcid: 0000-0003-3662-9532
-   affiliation: "1, 3"   
- - name: Nikola Stikov
-   orcid: 0000-0002-8480-5230
-   affiliation: "1, 4"   
-
+authors:
+  - name: Agah Karakuzu
+    orcid: 0000-0001-7283-271X
+    affiliation: "1, 4"
+  - name: Mathieu Boudreau
+    orcid: 0000-0002-7726-4456
+    affiliation: "1, 4"
+  - name: Tanguy Duval
+    orcid: 0000-0002-1228-5192
+    affiliation: 1
+  - name: Tommy Boshkovski
+    orcid: 0000-0002-5243-5204
+    affiliation: 1
+  - name: Ilana R. Leppert
+    affiliation: 2
+  - name: G. Bruce Pike
+    orcid: 0000-0001-8924-683X
+    affiliation: "2, 5"
+  - name: Julien Cohen-Adad
+    orcid: 0000-0003-3662-9532
+    affiliation: "1, 3"
+  - name: Nikola Stikov
+    orcid: 0000-0002-8480-5230
+    affiliation: "1, 4"
 affiliations:
-- name: NeuroPoly Lab, Institute of Biomedical Engineering, Polytechnique Montreal, Montreal, Canada
-  index: 1
-- name: McConnell Brain Imaging Center, Montreal Neurological Institute, McGill University, Montreal, Canada
-  index: 2
-- name: Functional Neuroimaging Unit, CRIUGM, University of Montreal, Montreal, Canada
-  index: 3
-- name: Montreal Heart Institute, University of Montréal, Montréal, Canada
-  index: 4
-- name: Departments of Radiology and Clinical Neuroscience,  Hotchkiss Brain Institute, University of Calgary, Calgary, Canada
- Index: 5 
-
+  - name: NeuroPoly Lab, Institute of Biomedical Engineering, Polytechnique Montreal, Montreal, Canada
+    index: 1
+  - name: McConnell Brain Imaging Center, Montreal Neurological Institute, McGill University, Montreal, Canada
+    index: 2
+  - name: Functional Neuroimaging Unit, CRIUGM, University of Montreal, Montreal, Canada
+    index: 3
+  - name: Montreal Heart Institute, University of Montréal, Montréal, Canada
+    index: 4
+  - name: Departments of Radiology and Clinical Neuroscience,  Hotchkiss Brain Institute, University of Calgary, Calgary, Canada
+  Index: 5
 date: 02 March 2020
 bibliography: paper.bib
-
 ---
 
 # Summary
